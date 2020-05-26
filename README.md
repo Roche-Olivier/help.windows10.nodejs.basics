@@ -9,5 +9,5 @@
 
 
 ## Getting started
-* [Initialize](https://github.com/Roche-Olivier/help.windows10.nodejs.basics/blob/master/_content/_pages/start.initialize.md)
-* [Run an application](https://github.com/Roche-Olivier/help.windows10.nodejs.basics/blob/master/_content/_pages/start.running.md)
+* [Initialize and create your first application](https://github.com/Roche-Olivier/help.windows10.nodejs.basics/blob/master/_content/_pages/start.initialize.md)
+* [Run the application](https://github.com/Roche-Olivier/help.windows10.nodejs.basics/blob/master/_content/_pages/start.running.md)

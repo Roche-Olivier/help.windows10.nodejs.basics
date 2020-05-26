@@ -1,10 +1,5 @@
 
-# Installs
-## Installs
-### Installs
-#### Installs
-##### Installs
-
+# Index
 ## Installs
 * [NodeJs](https://github.com/Roche-Olivier/help.windows10.nodejs.basics/blob/master/_content/_pages/install.nodejs.md)
 

@@ -1,11 +1,7 @@
 ![Examples and lessons](https://github.com/Roche-Olivier/help.windows10.nodejs.basics/blob/master/_content/_images/footer.png "Examples and lessons")
 
-### [Back to the index...](https://github.com/Roche-Olivier/help.windows10.nodejs.basics)
+### [![Home](https://github.com/Roche-Olivier/help.windows10.nodejs.basics/blob/master/_content/_images/home.png "Home") Home](https://github.com/Roche-Olivier/help.windows10.nodejs.basics)
 
-### [![Home](https://github.com/Roche-Olivier/help.windows10.nodejs.basics/blob/master/_content/_images/home.png "Home")](https://github.com/Roche-Olivier/help.windows10.nodejs.basics)
-
-
-![Home](https://github.com/Roche-Olivier/help.windows10.nodejs.basics/blob/master/_content/_images/home.png "Home")
 
 ## NodeJs
 

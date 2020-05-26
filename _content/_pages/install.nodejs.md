@@ -1,6 +1,8 @@
-[Back to the index...](https://github.com/Roche-Olivier/help.windows10.nodejs.basics)
+![Examples and lessons](https://github.com/Roche-Olivier/help.windows10.nodejs.basics/blob/master/_content/_images/footer.png "Examples and lessons")
 
-### NodeJs
+### [Back to the index...](https://github.com/Roche-Olivier/help.windows10.nodejs.basics)
+
+## NodeJs
 
 The installation files can be found at :<br>
 > https://nodejs.org/en/
@@ -15,8 +17,6 @@ To ensure your node has installed correctly type the following command on the co
 
 You should see the version on the command line for example `v10.16.0`
 
-[Back to the index...](https://github.com/Roche-Olivier/help.windows10.nodejs.basics)
-
-![Examples and lessons](https://github.com/Roche-Olivier/help.windows10.nodejs.basics/blob/master/_content/_images/footer.png "Examples and lessons")
+### [Back to the index...](https://github.com/Roche-Olivier/help.windows10.nodejs.basics)
 
 

@@ -10,4 +10,4 @@
 
 ## Getting started
 * [Initialize](https://github.com/Roche-Olivier/help.windows10.nodejs.basics/blob/master/_content/_pages/start.initialize.md)
-* [Git ignore](https://github.com/Roche-Olivier/help.windows10.nodejs.basics/blob/master/_content/_pages/start.gitignore.md)
+* [Run an application](https://github.com/Roche-Olivier/help.windows10.nodejs.basics/blob/master/_content/_pages/start.running.md)

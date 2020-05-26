@@ -1,19 +1,20 @@
 ### [![Index](https://github.com/Roche-Olivier/help.windows10.nodejs.basics/blob/master/_content/_images/home.png "Index") Index](https://github.com/Roche-Olivier/help.windows10.nodejs.basics)
 
-## NodeJs
+## Development basics
 
-The installation files can be found at :<br>
-> https://nodejs.org/en/
+**Where do we start with such a mountain of data available to us.**
 
-Download the LTS version of node and install it on your PC.
+> Create a readme
 
-Follow the instructions and reboot your pc after the installation.
+ALWAYS create a `README.md` file in your application root folder , so that the next developer knows what the application is about and how it works.
 
-To ensure your node has installed correctly type the following command on the command line:
+> Initialize your project
 
-`> node --version`
+Then we always need to initialize a node project.
 
-You should see the version on the command line for example `v10.16.0`
+> Create a git ignore file
+
+Be sure to create a git ignore file to that all the binaries does not get checked in , only the source.
 
 ![Examples and lessons](https://github.com/Roche-Olivier/help.windows10.nodejs.basics/blob/master/_content/_images/footer.png "Examples and lessons")
 

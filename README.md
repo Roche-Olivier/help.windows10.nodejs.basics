@@ -1,6 +1,6 @@
 
-# Index
-#### NodeJS : Taken from 'https://nodejs.org/en/about/'
+## NodeJS: Basics
+#### Taken from 'https://nodejs.org/en/about/'
 
 > As an asynchronous event-driven JavaScript runtime, Node.js is designed to build scalable network applications. 
 

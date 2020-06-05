@@ -3,7 +3,7 @@
 ## NodeJs
 
 The installation files can be found at :<br>
-> https://nodejs.org/en/
+> https://nodejs.org/en/download/
 
 Download the LTS version of node and install it on your PC.
 
